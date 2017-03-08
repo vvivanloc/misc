@@ -9,7 +9,7 @@ A chest box with a bunch useless scripts.
 
 * mailurlBuilder.ts
 
-  A lame attempt to fool a very simple email crawler: top-notch encrypted  mail URL approved by *Imperator Iulius Caesar Divus* and DOM trickery hook.
+  A lame attempt to fool a very simple email crawler: top-notch encrypted mail URL approved by *Imperator Iulius Caesar Divus* himself and DOM trickery hook.
 
   The email is bound to an HTML DOM Element named *mailhref*.
 
